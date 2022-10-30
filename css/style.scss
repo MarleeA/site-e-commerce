@@ -1,0 +1,36 @@
+footer{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+    justify-content: space-around;
+    text-decoration: none;
+   
+};
+
+.navBar{
+    background-color: black; 
+}
+
+nav{
+    
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 100px;
+    
+    
+};
+
+a{
+    text-decoration: none;
+
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
